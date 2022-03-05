@@ -10,4 +10,4 @@ Crear un sistema que permita detectar si un conductor presenta signos de somnole
 ###### Modelos:
 Gaussian NB, RandomForestClassifier, DecisionTreeClassifier, SuportVectorClassifier, Red neuronal convolucional.
 ###### Dataset: [Somnolencia en conductores] https://www.kaggle.com/serenaraju/yawn-eye-dataset-new.
-###### Vídeo: [Clasificador de flores].(https://youtu.be/ZFet71Q4JeM)
+###### Vídeo: 
