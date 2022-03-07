@@ -2,7 +2,7 @@
 ![alt text](https://github.com/iveth1/Proyecto-IA/blob/main/somnolencia.jpg)
 
 ## Objetivo
-Crear un sistema que permita detectar si un conductor presenta signos de somnolencia
+Crear un sistema que permita detectar si un conductor presenta signos de somnolencia.
 
 ## conclusiones
 
@@ -13,4 +13,4 @@ Crear un sistema que permita detectar si un conductor presenta signos de somnole
 ###### Modelos:
 Gaussian NB, RandomForestClassifier, DecisionTreeClassifier, SuportVectorClassifier, Red neuronal convolucional.
 ###### Dataset: [Somnolencia en conductores] https://www.kaggle.com/serenaraju/yawn-eye-dataset-new.
-###### Vídeo: 
+###### Vídeo:  https://youtu.be/wDzE3vckpWM 
